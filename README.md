@@ -2,7 +2,7 @@
 
 
 # I'm Fidaa Al-Bunai
-Motivated and adaptable professional with a strong foundation in digital marketing and front-end development, seeking to utilize valuable work experience in excavation, automotive maintenance, carpentry, and aluminum work. Committed to ongoing self-improvement and enhancing English language skills for effective global communication and collaboration.
+Versatile and seasoned professional with expertise in design, data science, and full-stack development. I am proficient in HTML, CSS, JavaScript, Python, and CS50. I demonstrate a commitment to crafting innovative solutions and possess a keen eye for detail. I have a proven track record of delivering impactful projects with a focus on both functionality and aesthetic excellence.
 
 ## Skills and Experience  
 * ⚛ React
